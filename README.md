@@ -1,24 +1,5 @@
-# README
+# Curso de Rails - Programa Contact_list
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+  Um programa para criação de um site de lista de contatos, apenas para treinamento
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+**(Código em desenvolvimento)**
